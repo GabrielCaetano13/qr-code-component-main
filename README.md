@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/GabrielCaetano13/qr-code-component-main)
+- Live Site URL: [Click here](https://gabrielcaetano-qr-code-component.vercel.app/)
 
 ## My process
 
@@ -35,24 +35,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 
-### What I learned
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ## Author
 
-- GitHub - [Add your name here](https://github.com/GabrielCaetano13)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/home)
-- Linkedin - [@yourusername](https://www.linkedin.com/in/gabriel-de-paula-caetano-531861240/)
+- GitHub - [GabrielCaetano13](https://github.com/GabrielCaetano13)
+- Frontend Mentor - [@GabrielCaetano13](https://www.frontendmentor.io/home)
+- Linkedin - [Gabriel Caetano](https://www.linkedin.com/in/gabriel-de-paula-caetano-531861240/)
